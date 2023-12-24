@@ -64,7 +64,7 @@
                 <div class="col-md-6 col-lg-5">
                     <div class="login-box bg-white box-shadow border-radius-10">
                         <div class="login-title">
-                            <h2 class="text-center"  style="color: #2fb5ba;" >Login</h2>
+                            <h2 class="text-center"  style="color: #2fb5ba;" >Login n</h2>
                         </div>
                         <form method="post" action="http://localhost/MS/deskapp/login/auth"
                             abineguid="0B50633E42DB4B698EF011E336848FEE" pwmfilled="auto"
