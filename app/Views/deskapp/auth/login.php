@@ -46,7 +46,7 @@
         <div class="container-fluid d-flex justify-content-between align-items-center">
             <div class="brand-logo">
                 <a href="login">
-                    <img src="http://localhost/MS/assets/vendors/images/logo-white.png" alt="" class="light-logo">
+                    <img src="http://localhost/MS/assets/vendors/images/black_logo-removebg-preview.png" alt="" class="light-logo">
                 </a>
             </div>
             <div class="login-menu">
@@ -64,7 +64,7 @@
                 <div class="col-md-6 col-lg-5">
                     <div class="login-box bg-white box-shadow border-radius-10">
                         <div class="login-title">
-                            <h2 class="text-center"  style="color: #2fb5ba;" >Login n</h2>
+                            <h2 class="text-center"  style="color: #2fb5ba;" >Login</h2>
                         </div>
                         <form method="post" action="http://localhost/MS/deskapp/login/auth"
                             abineguid="0B50633E42DB4B698EF011E336848FEE" pwmfilled="auto"
@@ -152,8 +152,9 @@
                                         <input class="btn btn-lg btn-block"
                                             style="background-color: #bda374; color: #fff;" type="submit"
                                             value="Sign In">
+                                            
 
-                                        <!-- <a class="btn btn-primary btn-lg btn-block" href="index">Sign In</a> -->
+                                       <!--  <a class="btn btn-primary btn-lg btn-block" href="http://localhost/MS/deskapp/register">Sign Up</a>-->
                                     </div>
 
                                     <div class="input-group mb-0">

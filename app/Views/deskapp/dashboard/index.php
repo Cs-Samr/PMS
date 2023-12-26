@@ -209,8 +209,8 @@
                         <div class="buttons">
                             <a class="btn btn-edit"
                                 href="http://localhost/MS/deskapp/ui/tooltip/<?= $project_data['id_project'][$index] ?>">تعديل</a>
-                            <a class="btn btn-view"
-                            href="http://localhost/MS/deskapp/icons/fontawesome/<?= urlencode($project_data['id_project'][$index]) ?>">عرض</a>
+                            <!-- <a class="btn btn-view"
+                            href="http://localhost/MS/deskapp/icons/fontawesome/<?= urlencode($project_data['id_project'][$index]) ?>">عرض</a> -->
                         </div>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                         <div class="card_title">Statistics</div>
                         <div class="card_center-button">
                             <!-- Centering the button in the card -->
-                            <a href="http://localhost/MS/deskapp/ui/modals" class="card_button">View Stats</a>
+                            <a href="http://localhost/MS/deskapp/charts/apexcharts" class="card_button">View Stats</a>
                         </div>
                     </div>
 

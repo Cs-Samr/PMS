@@ -217,8 +217,8 @@
                         <div class="buttons">
                             <a class="btn btn-edit"
                                 href="http://localhost/MS/deskapp/ui/tooltip/<?= $project_data['id_project'][$index] ?>">تعديل</a>
-                            <a class="btn btn-view"
-                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a>
+                            <!-- <a class="btn btn-view"
+                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a> -->
                         </div>
                     </div>
                 </div>
@@ -256,8 +256,8 @@
                         <div class="buttons">
                             <a class="btn btn-edit"
                                 href="http://localhost/MS/deskapp/ui/tooltip/<?= $project_data['id_project'][$index] ?>">تعديل</a>
-                            <a class="btn btn-view"
-                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a>
+                            <!-- <a class="btn btn-view"
+                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a> -->
                         </div>
                     </div>
                 </div>
@@ -294,8 +294,8 @@
                         <div class="buttons">
                             <a class="btn btn-edit"
                                 href="http://localhost/MS/deskapp/ui/tooltip/<?= $project_data['id_project'][$index] ?>">تعديل</a>
-                            <a class="btn btn-view"
-                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a>
+                            <!-- <a class="btn btn-view"
+                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a> -->
                         </div>
                     </div>
                 </div>
@@ -333,8 +333,8 @@
                         <div class="buttons">
                             <a class="btn btn-edit"
                                 href="http://localhost/MS/deskapp/ui/tooltip/<?= $project_data['id_project'][$index] ?>">تعديل</a>
-                            <a class="btn btn-view"
-                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a>
+                            <!-- <a class="btn btn-view"
+                                href="http://localhost/MS/deskapp/forms/wizard/<?= $project_data['id_project'][$index] ?>">عرض</a> -->
                         </div>
                     </div>
                 </div>

@@ -210,8 +210,8 @@
 </div><div class="left-side-bar">
 		<div class="brand-logo">
 			<a href="http://localhost/MS/deskapp/dashboard">
-				<img src="http://localhost/MS/assets/vendors/images/logo-dark.png" alt="" class="dark-logo">
-				<img src="http://localhost/MS/assets/vendors/images/logo-dark.png" alt="" class="light-logo">
+				<img src="http://localhost/MS/assets/vendors/images/white_Logo-removebg-preview.png" alt="" class="dark-logo">
+				<img src="http://localhost/MS/assets/vendors/images/white_Logo-removebg-preview.png" alt="" class="light-logo">
 			</a>
 			<div class="close-sidebar" data-toggle="left-sidebar-close">
 				<i class="ion-close-round"></i>
