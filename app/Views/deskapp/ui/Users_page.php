@@ -2,7 +2,7 @@
 <head>
     <!-- Basic Page Info -->
     <meta charset="utf-8">
-    <title>مستشفى قوى الأمن بمكة المكرمة</title>
+    <title>Project Manegment System </title>
    
     <!-- Site favicon -->
     <link rel="sfhm-touch-icon" sizes="180x180"
